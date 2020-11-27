@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+Le suivi de jardinage pour trois variétés.
 
-You can use the [editor on GitHub](https://github.com/lafoliefurieuse/suivi_culture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Black bomb mise en germination le 15 Novembre.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gorilla Glue qui a germé le 23 Novembre.
 
-### Markdown
+Cheesy Auto le 24 Novembre.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Installation dans un placard de 6060160.
 
-```markdown
-Syntax highlighted code block
+Lumatek Attis 300w
 
-# Header 1
-## Header 2
-### Header 3
+Extracteur 185m3 / h
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lafoliefurieuse/suivi_culture/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Humidificateur 350ml/h.
